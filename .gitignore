@@ -1,0 +1,6 @@
+# Power BI temp files
+*.pbix.tmp
+~$*
+.Trashes
+Thumbs.db
+.DS_Store
